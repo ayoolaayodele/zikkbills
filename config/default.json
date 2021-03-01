@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://zikk:zikk123@cluster0.484ko.mongodb.net/Zikk?retryWrites=true&w=majority",
+  "jwtSecret": "zikksblls"
+}
